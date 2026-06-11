@@ -7,7 +7,7 @@
 
 ### Introdução
 
-Meu nome é Ryuna Cortez (ela/dela ♀️) - Sou estudante de Ciência da Computação e também estagio com desenvolvimento back-end!
+Olá, mundo! Meu nome é Ryuna Cortez (ela/dela ♀️). Sou estudante de Ciência da Computação e também estagio com desenvolvimento back-end!
 
 ### Interesses
 
