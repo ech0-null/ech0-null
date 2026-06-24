@@ -5,6 +5,8 @@
 ![Static Badge](https://img.shields.io/badge/graduação-em_andamento-blue) 
 ![Static Badge](https://img.shields.io/badge/ocupação-estagiária-indigo)
 
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,nix,postgres,py,dotnet,java,spring,jenkins,git,maven,vscode)](https://skillicons.dev)  
+
 ### Introdução
 
 Olá, mundo! Meu nome é Ryuna Cortez (ela/dela ♀️). Sou estudante de Ciência da Computação e também estagio com desenvolvimento back-end!
@@ -12,7 +14,3 @@ Olá, mundo! Meu nome é Ryuna Cortez (ela/dela ♀️). Sou estudante de Ciênc
 ### Interesses
 
 Possuo interesses diversos dentro da tecnologia, mas em geral sou apaixonada pela filosofia FOSS e busco sempre priorizar projetos dessa natureza! Além disso, gosto muito de desenvolvimento de jogos.
-
-### Tecnologias
-
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,dotnet,java,py)](https://skillicons.dev)  
