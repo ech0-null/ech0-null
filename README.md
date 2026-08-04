@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/graduação-em_andamento-blue) 
 ![Static Badge](https://img.shields.io/badge/ocupação-estagiária-indigo)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,nix,postgres,py,dotnet,java,spring,jenkins,git,maven,vscode)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,postgres,py,dotnet,java,git)](https://skillicons.dev)  
 
 ### Introdução
 
