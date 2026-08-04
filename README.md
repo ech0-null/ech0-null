@@ -1,4 +1,4 @@
-# Saudações 😎
+# Olá, Mundo! 🤖
 
 ![Static Badge](https://img.shields.io/badge/status-offline-red) 
 ![Static Badge](https://img.shields.io/badge/pronomes-ela/dela-pink) 
@@ -9,7 +9,7 @@
 
 ### Introdução
 
-Olá, mundo! Meu nome é Ryuna Cortez (ela/dela ♀️). Sou estudante de Ciência da Computação e também estagio com desenvolvimento back-end!
+Saudações! Meu nome é Ryuna Cortez (ela/dela ♀️). Sou estudante de Ciência da Computação e também estagio com desenvolvimento back-end!
 
 ### Interesses
 
